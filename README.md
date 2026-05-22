@@ -1,2 +1,2 @@
-# eficiencia-operativa
+# Recorrido-diario
 Este dashboard se hizo para corregir la problematica de los recorridos, para ver en tiempo real el estado de la linea en cuanto a suciedad y condiciones básicas, esto esta basado en un forms en donde extrae esta información y se recopila en un excel en donde se gestionan y se asignan valores que estan clasificados, tambien tiene un cumplimiento y una calificación del área a evaluar.
