@@ -17,6 +17,8 @@ Ya teniendo esta estructura podemos empezar a contruirlo:
 1.- Para el diseño o el fondo es una imagen creada desde Power Point para darle el diseño que queremos
 2.- Teniendo el diseño ahora harémos el mapa de calor en el siguiente link: [https://okviz.com/synoptic-panel/](https://marketplace.microsoft.com/en-us/product/power-bi-visuals/okvizcorp1634637213047.synopticpanelbyokviz-v2?tab=PlansAndPrice)
 3.- Estaremos en la versión graatuita e instalamos 
-4.- Ya intalado iremos a diseñar el mapa de calor acorde a donde lo queramos adaptar, sugiero que para este punto pedir un plano de toda la planta https://synoptic.design/
+4.- Ya intalado iremos a diseñar el mapa de calor acorde a donde lo queramos adaptar, sugiero que para este punto pedir un plano del sitio a realizar para sewgmentar por zonas  https://synoptic.design/
+5.-  Te puedes guiar con los dos ejemplos de synoptic que estan en la carpeta de imagenes
+6.- Al terminar de delimitar la zona, colocarle el nombre y exportar al formato.
 
 
